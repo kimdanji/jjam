@@ -6,3 +6,36 @@
 *.import/
 *.import.cfg
 export.cfg
+
+# Visual Studio 프로젝트 파일
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# Visual Studio 디렉터리
+.vs/
+
+# Visual Studio Code 디렉터리
+.vscode/
+
+# ReSharper 디렉터리
+_ReSharper*/
+
+# NuGet 패키지 디렉터리
+packages/
+
+# 테스트 결과 디렉터리
+TestResults/
+
+# 로그 파일
+*.log
+
+# 빌드 결과 및 실행 파일
+*.exe
+*.dll
+*.pdb
+
+# 캐시와 빌드 디렉터리
+bin/
+obj/
