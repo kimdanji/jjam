@@ -1,0 +1,8 @@
+# SQLite database
+*.db
+
+# Godot project files
+.project
+*.import/
+*.import.cfg
+export.cfg

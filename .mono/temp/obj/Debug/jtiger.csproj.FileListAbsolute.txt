@@ -1,0 +1,9 @@
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.csproj.AssemblyReference.cache
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.AssemblyInfoInputs.cache
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.AssemblyInfo.cs
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.csproj.CoreCompileInputs.cache
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\bin\Debug\jtiger.dll
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\bin\Debug\jtiger.pdb
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.dll
+C:\Kimseungwoo\GodotProject\jtiger\jtiger\.mono\temp\obj\Debug\jtiger.pdb
